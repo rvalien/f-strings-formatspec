@@ -1,4 +1,5 @@
 # https://docs.python.org/3/library/string.html#formatspec
+# https://strftime.org/
 
 text = "hello world"
 
